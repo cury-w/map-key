@@ -33,7 +33,6 @@
 ```
 ├── README.md          # 项目说明文档
 ├── start.bat         # Windows启动脚本
-├── app.py            # Flask服务端代码
 ├── main.py           # PyQt5图形化界面代码
 └── requirements.txt  # 依赖清单
 ```
